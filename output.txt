@@ -1,0 +1,1 @@
+Similarity between doc1.txt and doc2.txt: 0.9500
